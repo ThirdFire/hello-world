@@ -1,2 +1,6 @@
 # hello-world
-just one repository
+
+Hi Humans!
+
+ThirdFire here, I like everyone hhhh.
+I'm 21 years old.
